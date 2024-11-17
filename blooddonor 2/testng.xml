@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Blood Donor Registration Suite" parallel="tests" thread-count="4">
+    <test name="Blood Donor Registration Tests">
+        <classes>
+            <class name="com.wperest.blooddonor.tests.BloodDonorRegistrationTest"/>
+            <!-- Add more test classes here if you have them -->
+        </classes>
+    </test>
+</suite>

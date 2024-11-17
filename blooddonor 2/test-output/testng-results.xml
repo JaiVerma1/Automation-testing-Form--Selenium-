@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-24T11:28:14 IST" name="Default suite" finished-at="2024-10-24T11:33:53 IST" duration-ms="338735">
+    <groups>
+    </groups>
+    <test started-at="2024-10-24T11:28:14 IST" name="Default test" finished-at="2024-10-24T11:33:53 IST" duration-ms="338735">
+      <class name="com.wperest.blooddonor.tests.AutomationPracticeFormTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.wperest.blooddonor.tests.AutomationPracticeFormTest@41a2befb]" started-at="2024-10-24T11:28:14 IST" name="setup" finished-at="2024-10-24T11:28:19 IST" duration-ms="4235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="fillForm(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.wperest.blooddonor.tests.AutomationPracticeFormTest@41a2befb]" started-at="2024-10-24T11:28:20 IST" name="fillForm" data-provider="excelData" finished-at="2024-10-24T11:29:01 IST" duration-ms="40927" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Aarav]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sharma]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[aarav.s@email.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[9876543210]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[15-06-1995]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Physics, Maths]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Sports, Music]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[C:\Users\Anirudh Rautela\eclipse-workspace\blooddonor\pictures\1.jpeg]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[123 Park Street, Noida]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[NCR]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Noida]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillForm -->
+        <test-method signature="fillForm(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.wperest.blooddonor.tests.AutomationPracticeFormTest@41a2befb]" started-at="2024-10-24T11:29:01 IST" name="fillForm" data-provider="excelData" finished-at="2024-10-24T11:29:37 IST" duration-ms="35774" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Diya]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Patel]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[diya.p@email.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[9876543211]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[23-08-1998]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Chemistry, Biology]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Reading]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[C:\Users\Anirudh Rautela\eclipse-workspace\blooddonor\pictures\2.jpg]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[45 Lake Road, Gurgaon]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[NCR]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Gurgaon]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillForm -->
+        <test-method signature="fillForm(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.wperest.blooddonor.tests.AutomationPracticeFormTest@41a2befb]" started-at="2024-10-24T11:29:37 IST" name="fillForm" data-provider="excelData" finished-at="2024-10-24T11:30:17 IST" duration-ms="40912" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Arjun]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kumar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[arjun.k@email.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[9876543212]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[07-03-1997]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Computer Science]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Sports]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[C:\Users\Anirudh Rautela\eclipse-workspace\blooddonor\pictures\3.jpg]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[78 MG Road, Delhi]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[NCR]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Delhi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillForm -->
+        <test-method signature="fillForm(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.wperest.blooddonor.tests.AutomationPracticeFormTest@41a2befb]" started-at="2024-10-24T11:30:17 IST" name="fillForm" data-provider="excelData" finished-at="2024-10-24T11:30:48 IST" duration-ms="30261" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Zara]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mehta]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[zara.m@email.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[9876543213]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[12-11-1996]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Economics]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Reading, Music]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[C:\Users\Anirudh Rautela\eclipse-workspace\blooddonor\pictures\4.jpeg]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[234 Beach Road, Jaipur]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Rajasthan]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Jaipur]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillForm -->
+        <test-method signature="fillForm(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.wperest.blooddonor.tests.AutomationPracticeFormTest@41a2befb]" started-at="2024-10-24T11:30:48 IST" name="fillForm" data-provider="excelData" finished-at="2024-10-24T11:31:22 IST" duration-ms="34665" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Vihaan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Singh]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[vihaan.s@email.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[9876543214]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[30-09-1994]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Physics, Chemistry]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Sports]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[C:\Users\Anirudh Rautela\eclipse-workspace\blooddonor\pictures\5.jpg]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[56 Hill View, Jaiselmer]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Rajasthan]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Jaiselmer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillForm -->
+        <test-method signature="fillForm(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.wperest.blooddonor.tests.AutomationPracticeFormTest@41a2befb]" started-at="2024-10-24T11:31:22 IST" name="fillForm" data-provider="excelData" finished-at="2024-10-24T11:32:04 IST" duration-ms="41151" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ananya]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Reddy]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ananya.r@email.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[9876543215]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[18-04-1999]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Biology]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Music]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[C:\Users\Anirudh Rautela\eclipse-workspace\blooddonor\pictures\6.jpg]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[89 Garden Street, Agra]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Uttar Pradesh]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Agra]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillForm -->
+        <test-method signature="fillForm(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.wperest.blooddonor.tests.AutomationPracticeFormTest@41a2befb]" started-at="2024-10-24T11:32:04 IST" name="fillForm" data-provider="excelData" finished-at="2024-10-24T11:32:35 IST" duration-ms="31709" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ishaan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Verma]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ishaan.v@email.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[9876543216]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[25-07-1993]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Maths]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Sports, Reading]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[C:\Users\Anirudh Rautela\eclipse-workspace\blooddonor\pictures\7.png]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[432 River View, Lucknow]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Uttar Pradesh]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Lucknow]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillForm -->
+        <test-method signature="fillForm(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.wperest.blooddonor.tests.AutomationPracticeFormTest@41a2befb]" started-at="2024-10-24T11:32:35 IST" name="fillForm" data-provider="excelData" finished-at="2024-10-24T11:33:12 IST" duration-ms="36291" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Kabir]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Malhotra]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[kabir.m@email.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[9876543218]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[21-02-1996]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Computer Science]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Sports, Music]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[C:\Users\Anirudh Rautela\eclipse-workspace\blooddonor\pictures\9.jpg]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[890 Tech Park, Karnal]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Haryana]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Karnal]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillForm -->
+        <test-method signature="fillForm(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.wperest.blooddonor.tests.AutomationPracticeFormTest@41a2befb]" started-at="2024-10-24T11:33:12 IST" name="fillForm" data-provider="excelData" finished-at="2024-10-24T11:33:53 IST" duration-ms="41380" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Aisha]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Iyer]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[aisha.i@email.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[9876543219]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[09-05-1998]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Physics, Chemistry]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Music, Reading]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[C:\Users\Anirudh Rautela\eclipse-workspace\blooddonor\pictures\10.jpeg]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[123 Lake View, Panipat]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Haryana]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Panipat]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillForm -->
+      </class> <!-- com.wperest.blooddonor.tests.AutomationPracticeFormTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
